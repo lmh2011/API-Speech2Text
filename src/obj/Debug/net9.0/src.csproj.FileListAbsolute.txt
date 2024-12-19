@@ -1,0 +1,14 @@
+D:\CODE\Python\Xu_li_tieng_noi\2024_work\Phan_mem_c#\src\obj\Debug\net9.0\src.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\Python\Xu_li_tieng_noi\2024_work\Phan_mem_c#\src\obj\Debug\net9.0\src.AssemblyInfoInputs.cache
+D:\CODE\Python\Xu_li_tieng_noi\2024_work\Phan_mem_c#\src\obj\Debug\net9.0\src.AssemblyInfo.cs
+D:\CODE\Python\Xu_li_tieng_noi\2024_work\Phan_mem_c#\src\obj\Debug\net9.0\src.csproj.CoreCompileInputs.cache
+D:\CODE\Python\Xu_li_tieng_noi\2024_work\Phan_mem_c#\src\bin\Debug\net9.0\src.exe
+D:\CODE\Python\Xu_li_tieng_noi\2024_work\Phan_mem_c#\src\bin\Debug\net9.0\src.deps.json
+D:\CODE\Python\Xu_li_tieng_noi\2024_work\Phan_mem_c#\src\bin\Debug\net9.0\src.runtimeconfig.json
+D:\CODE\Python\Xu_li_tieng_noi\2024_work\Phan_mem_c#\src\bin\Debug\net9.0\src.dll
+D:\CODE\Python\Xu_li_tieng_noi\2024_work\Phan_mem_c#\src\bin\Debug\net9.0\src.pdb
+D:\CODE\Python\Xu_li_tieng_noi\2024_work\Phan_mem_c#\src\obj\Debug\net9.0\src.dll
+D:\CODE\Python\Xu_li_tieng_noi\2024_work\Phan_mem_c#\src\obj\Debug\net9.0\refint\src.dll
+D:\CODE\Python\Xu_li_tieng_noi\2024_work\Phan_mem_c#\src\obj\Debug\net9.0\src.pdb
+D:\CODE\Python\Xu_li_tieng_noi\2024_work\Phan_mem_c#\src\obj\Debug\net9.0\src.genruntimeconfig.cache
+D:\CODE\Python\Xu_li_tieng_noi\2024_work\Phan_mem_c#\src\obj\Debug\net9.0\ref\src.dll
