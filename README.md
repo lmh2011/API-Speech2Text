@@ -5,4 +5,5 @@
 # Môi trường
 - `pip install -r requirements.txt`
 # Run:
-- `uvicorn fast_api_s2t:app --reload`
+- Send data (dotnet 9.0): `dotnet run`
+- Request: `uvicorn fast_api_s2t:app --reload`
